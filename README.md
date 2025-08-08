@@ -2,9 +2,8 @@
 
 # SOCIAL ENGINEER 🎯🕵️‍♂️
 
-A powerful social engineering toolkit that automates phishing, OTP/email bombing, fake mail, and more — built with ❤️ by [@karthithehacker](https://karthithehacker.com)
+A powerful social engineering toolkit that automates phishing, OTP/email bombing, fake mail, and more — built with ❤️ by @InfantSurya
 
-![Main Menu](https://raw.githubusercontent.com/karthi-the-hacker/SocialEngineer/refs/heads/main/images/social-engineer.png)
 
 > ⚠️ For educational use only. Do **not** use this tool against anyone without explicit permission.
 
@@ -69,7 +68,7 @@ Social-Engineer/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/karthi-the-hacker/SocialEngineer.git
+git clone https://github.com/infantsurya06/SocialEngineer-Psycho-Leaner.git
 cd SocialEngineer
 ```
 
@@ -97,8 +96,7 @@ sudo python3 SocialEngineer.py
 ╚════██║██║   ██║██║     ██║██╔══██║██║         ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
 ███████║╚██████╔╝╚██████╗██║██║  ██║███████╗    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
 ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝                                           
-                                                                Author: @karthithehacker
-                                                                Website: Karthithehacker.com                                                               
+                                                                Author: @InfantSurya                                                          
                                                      
 
             Main Menu             
@@ -180,13 +178,6 @@ The `login.php` endpoint receives credentials from fake  login pages (templates)
 * 📞 Fake IVR Call
 * 🛠️  Settings / Configuration Menu
 * 🎥 Webcam Hacking
-
----
-
-## 👨‍💻 Author
-
-* Website: [karthithehacker.com](https://karthithehacker.com)
-* GitHub: [@karthi-the-hacker](https://github.com/karthi-the-hacker)
 
 ---
 
